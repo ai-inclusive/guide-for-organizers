@@ -28,3 +28,18 @@ _The term "women and gender minorities" is inclusive of individuals who identify
 
 <br>
 
+## Getting started
+
+Are you interested in starting an AI Inclusive chapter in your area? The first step is to send us an email (info@ai-inclusive.org). We will reply to your email wiht all the instructions and next step.
+
+Step-by-step guide for new chapters:
+
+1) Setup your tech infrastructure (meetup.com, twitter, instagram, facebook, etc)
+
+2) Suggestions on organizing events
+
+3) Have questions? Take a look at our Frequently Asked Questions (FAQ)
+
+=> Make sure you read and comply with our code of conduct (https://www.ai-inclusive.org/code-of-conduct/)
+
+
