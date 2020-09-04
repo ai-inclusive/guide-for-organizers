@@ -4,7 +4,7 @@
 
 ## Overview of AI Inclusive
 
-### **Mission** : Our mission is to increase the representation and participation of gender minorities groups in AI (Artificial Intelligence).
+### Our mission is to increase the representation and participation of gender minorities groups in AI (Artificial Intelligence).
 
 ### Agreements
 - **Leadership**: Leadership roles within AI Inclusive chapters, particularly **organizer** and **co-organizer** roles, are to be held by _women and gender minorities_.
