@@ -34,7 +34,7 @@ Are you interested in starting an AI Inclusive chapter in your area? The first s
 
 Step-by-step guide for new chapters:
 
-1) Setup your tech infrastructure (meetup.com, twitter, instagram, facebook, etc)
+1) Setup your tech infrastructure (meetup.com, twitter, instagram, facebook, etc). Please read the instructions [here](tech-infrastructure.md).
 
 2) Suggestions on organizing events
 
