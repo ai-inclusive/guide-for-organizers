@@ -1,6 +1,6 @@
 <img src="https://www.ai-inclusive.org/wp-content/uploads/2019/07/AI-Inclusive-885x1024.png" data-canonical-src="https://www.ai-inclusive.org/wp-content/uploads/2019/07/AI-Inclusive-885x1024.png" width="100" height="100" />
 
-# AI Inclusive Starter Kit for New Chapters
+# AI Inclusive Guide for New Chapters and Organizers
 
 ## Overview of AI Inclusive
 
